@@ -8,3 +8,4 @@
 - MesloLGS Nerd Font
 - lazygit for git managing
 - vimium(keyboard browser navigation) https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related
+- browse terminal hystory [atuin terminal history](https://github.com/atuinsh/atuin#shell-plugin)
